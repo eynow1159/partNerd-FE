@@ -64,4 +64,3 @@ const ContentSection = styled.div`
     padding: 0 16px;
   }
 `;
-
